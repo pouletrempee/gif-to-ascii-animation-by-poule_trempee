@@ -30,8 +30,12 @@ A mini software created by poule_trempee in python !
 4/ go in the extrated zip file
 
 ![image](https://github.com/pouletrempee/gif-to-ascii-animation-by-poule_trempee/assets/152799087/979ef3e7-eb0d-4e8b-a4ad-e03c239e6a71)
+ 
+5/ put your .gif file in the "gif" file and delete the example
 
-5/ in the address bar put "cmd" and press enter
+![image](https://github.com/pouletrempee/gif-to-ascii-animation-by-poule_trempee/assets/152799087/fa378687-74c1-4916-8612-f949827cc216)
+
+5/ in the address bar put "cmd" and press enter (like the image)
 
 ![image](https://github.com/pouletrempee/gif-to-ascii-animation-by-poule_trempee/assets/152799087/a629ebc4-b055-4990-9912-0ced49fb0cb2)
 
