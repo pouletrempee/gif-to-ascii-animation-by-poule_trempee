@@ -27,7 +27,7 @@ A mini software created by poule_trempee in python !
 6. Follow the prompts in the installer to complete the installation process.
 7. After installation, you can verify by typing python --version in the command prompt or terminal.
 
-4/ go in the extrated zip file
+4/ go in the extrated zip file and in the file "gif"
 
 ![image](https://github.com/pouletrempee/gif-to-ascii-animation-by-poule_trempee/assets/152799087/979ef3e7-eb0d-4e8b-a4ad-e03c239e6a71)
  
