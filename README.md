@@ -35,7 +35,7 @@ A mini software created by poule_trempee in python !
 
 ![image](https://github.com/pouletrempee/gif-to-ascii-animation-by-poule_trempee/assets/152799087/fa378687-74c1-4916-8612-f949827cc216)
 
-5/ in the address bar put "cmd" and press enter (like the image)
+5/ in the address bar put "cmd" and press enter (like the image, at the same file)
 
 ![image](https://github.com/pouletrempee/gif-to-ascii-animation-by-poule_trempee/assets/152799087/a629ebc4-b055-4990-9912-0ced49fb0cb2)
 
@@ -45,7 +45,9 @@ A mini software created by poule_trempee in python !
 py gif_to_ascii_by_poule_trempee.py
 ```
 
-For other mini games go to my profile
+7/ ENJOY
+
+For other software go to my profile
 https://github.com/pouletrempee/
 
 To contact me :
@@ -53,4 +55,4 @@ http://tinyurl.com/pouletrempee-contact
 
 **https://www.twitch.tv/poule_trempee**
 
-if you like the game say it in my discord --> https://dsc.gg/pouletrempee
+if you like the software say it in my discord --> https://dsc.gg/pouletrempee
