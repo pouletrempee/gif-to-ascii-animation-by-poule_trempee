@@ -28,6 +28,7 @@ A mini software created by poule_trempee in python !
 7. After installation, you can verify by typing python --version in the command prompt or terminal.
 
 4/ go in the extrated zip file
+
 ![image](https://github.com/pouletrempee/gif-to-ascii-animation-by-poule_trempee/assets/152799087/979ef3e7-eb0d-4e8b-a4ad-e03c239e6a71)
 
 5/ in the address bar put "cmd" and press enter
@@ -36,7 +37,8 @@ A mini software created by poule_trempee in python !
 
 6/ put this command in the command prompt
 
-```py gif_to_ascii_by_poule_trempee.py```
+```py gif_to_ascii_by_poule_trempee.py
+```
 
 For other mini games go to my profile
 https://github.com/pouletrempee/
