@@ -47,6 +47,8 @@ py gif_to_ascii_by_poule_trempee.py
 
 7/ ENJOY
 
+# ⚠️ Remember that the quality of the ASCII animation will depend on the size and complexity of the GIF. ⚠️
+
 For other software go to my profile
 https://github.com/pouletrempee/
 
