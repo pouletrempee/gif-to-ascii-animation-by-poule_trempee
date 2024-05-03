@@ -37,7 +37,8 @@ A mini software created by poule_trempee in python !
 
 6/ put this command in the command prompt
 
-```py gif_to_ascii_by_poule_trempee.py
+```
+py gif_to_ascii_by_poule_trempee.py
 ```
 
 For other mini games go to my profile
