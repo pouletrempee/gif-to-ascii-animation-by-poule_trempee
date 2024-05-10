@@ -42,6 +42,10 @@ A mini software created by poule_trempee in python !
 6/ put this command in the command prompt
 
 ```
+pip install image
+```
+
+```
 py gif_to_ascii_by_poule_trempee.py
 ```
 
