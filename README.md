@@ -31,7 +31,7 @@ A mini software created by poule_trempee in python !
 
 ![image](https://github.com/pouletrempee/gif-to-ascii-animation-by-poule_trempee/assets/152799087/979ef3e7-eb0d-4e8b-a4ad-e03c239e6a71)
  
-5/ remplace the .gif file with your gif if you want
+5/ remplace the .gif example file with your gif if you want
 
 ![image](https://github.com/pouletrempee/gif-to-ascii-animation-by-poule_trempee/assets/152799087/fa378687-74c1-4916-8612-f949827cc216)
 
